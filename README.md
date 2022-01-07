@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h3 align="center">Computer Programmer</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/crypto_su_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crypto_su_us" height="30" width="40" /></a>
